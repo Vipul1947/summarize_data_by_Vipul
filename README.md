@@ -8,7 +8,10 @@ You will be given an option to choose number of lines, if you choose number of l
 <br>
 <h2> LIVE LINK : https://summarize-data-by-vipul.herokuapp.com/ </h2>
 <br>
- <h2>Model</h2>
+ <h2>Concepts used</h2>
+- Preprocessing using NLTK
+- Vectorization and Cosine similarity
+- 
 
 <br><br>
 <h2> Dataset for testing </h2>
@@ -17,7 +20,7 @@ I picked few lines from : https://en.wikipedia.org/wiki/Text_(literary_theory)
 <br>
 <h2> FLOW CHART </h2>
 
-![WhatsApp Image 2021-09-13 at 16 21 11](https://user-images.githubusercontent.com/56962974/133897832-ea2f6ef3-ec47-44fc-a366-390243b37f3e.jpeg)
+![WhatsApp Image 2021-11-21 at 21 00 42](https://user-images.githubusercontent.com/56962974/142768296-a63ef3e1-fbc5-4f9e-ae6a-ad1b514ab4a9.jpeg)
 
 
 <br>
@@ -31,6 +34,10 @@ For this project, the following tools were used:
 
 <br><br>
 <h2>IO Screenshots</h2>
+
+![image](https://user-images.githubusercontent.com/56962974/142768305-4af96d7d-ce32-4c15-9c98-848cf1b4c182.png)
+![image](https://user-images.githubusercontent.com/56962974/142768338-5eea948b-6a70-48ac-97dd-cd403e8899bc.png)
+![image](https://user-images.githubusercontent.com/56962974/142768374-b5eb346f-b136-47e1-bb14-0ec39a0fabbc.png)
 
 
 <br>
