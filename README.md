@@ -9,13 +9,15 @@ You will be given an option to choose number of lines, if you choose number of l
 <h2> LIVE LINK : https://summarize-data-by-vipul.herokuapp.com/ </h2>
 <br>
  <h2>Concepts used</h2>
-- Preprocessing using NLTK
-- Vectorization and Cosine similarity
-- 
+ 
+- Preprocessing using NLTK.
+- Vectorization and Cosine similarity.
+- Ranking of sentences assigned by similarity matrix and then sort the matrix in order to get top sentences.
+- Output text using NLTK.
 
 <br><br>
 <h2> Dataset for testing </h2>
-I picked few lines from : https://en.wikipedia.org/wiki/Text_(literary_theory)
+I picked few lines from : https://en.wikipedia.org/wiki/Text_(literary_theory) and then used the concept of text summarization on that data.
 <br>
 <br>
 <h2> FLOW CHART </h2>
